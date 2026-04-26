@@ -1,4 +1,4 @@
-package Function;
+package Data_Type;
 
 public class TypeDemo {
     public static void main(String[] args) {

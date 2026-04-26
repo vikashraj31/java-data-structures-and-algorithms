@@ -1,4 +1,4 @@
-package Function;
+package Data_Type;
 import java.util.Scanner;
 
 
