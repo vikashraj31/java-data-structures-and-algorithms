@@ -1,5 +1,3 @@
-This repository contains well-structured implementations of core Data Structures and Algorithms in Java. It is designed to strengthen problem-solving skills and prepare for technical interviews.
-
 ## 🔗 LeetCode Profile
 
 You can find my problem-solving practice and submissions here:
