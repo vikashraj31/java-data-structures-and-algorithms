@@ -19,5 +19,17 @@ public class Zero_One_Triangle {
 
     public static void main(String[] args) {
         Print(5);
+        int a = 10;
+    int b = 20;
+    int sum = a + b;
+    int ans = sum%2;
+    int ans2 = sum/2;
+
+    
+    System.out.println(ans);     
+    System.out.println(ans2);
     }
+
+
+    
 }
