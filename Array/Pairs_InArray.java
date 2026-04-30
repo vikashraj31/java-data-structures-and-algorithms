@@ -18,7 +18,7 @@ public class Pairs_InArray {
             System.out.println();
 
         }
-        System.out.println("Toatl pairs " + tp);
+        System.out.println("Toatl pairs is " + tp);
     }
 
     public static void main(String[] args) {
